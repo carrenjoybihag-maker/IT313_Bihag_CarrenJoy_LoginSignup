@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "IT313 Campus Connect",
+    "slug": "it313-campus-connect",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#F5F6FB"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
